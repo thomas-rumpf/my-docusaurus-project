@@ -4,7 +4,7 @@ This project is to get used to docusaurus, Facebooks free open source website bu
 ## Technologies
 Project is created with:
 * docusaurus2
-* node.js v12.10.0
+* node.js v12.19.0
 * lorem ipsum
 	
 ## Setup
