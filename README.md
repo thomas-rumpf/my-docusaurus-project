@@ -3,7 +3,7 @@ This project is to get used to docusaurus, Facebooks free open source website bu
 	
 ## Technologies
 Project is created with:
-* [docusaurus2] (https://v2.docusaurus.io/)
+* [docusaurus2](https://v2.docusaurus.io/)
 * node.js v12.19.0
 * lorem ipsum
 	
