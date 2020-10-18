@@ -1,11 +1,11 @@
 ## Introduction
-This project is simple Lorem ipsum dolor generator.
+This project is to get used to docusaurus, Facebooks free open source website builder.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* docusaurus2
+* node.js v12.10.0
+* lorem ipsum
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using app app app
